@@ -1,0 +1,14 @@
+C:\Users\Channak kranh\source\repos\Dice_game\Dice_game\bin\Debug\net8.0\Dice_game.exe
+C:\Users\Channak kranh\source\repos\Dice_game\Dice_game\bin\Debug\net8.0\Dice_game.deps.json
+C:\Users\Channak kranh\source\repos\Dice_game\Dice_game\bin\Debug\net8.0\Dice_game.runtimeconfig.json
+C:\Users\Channak kranh\source\repos\Dice_game\Dice_game\bin\Debug\net8.0\Dice_game.dll
+C:\Users\Channak kranh\source\repos\Dice_game\Dice_game\bin\Debug\net8.0\Dice_game.pdb
+C:\Users\Channak kranh\source\repos\Dice_game\Dice_game\obj\Debug\net8.0\Dice_game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Channak kranh\source\repos\Dice_game\Dice_game\obj\Debug\net8.0\Dice_game.AssemblyInfoInputs.cache
+C:\Users\Channak kranh\source\repos\Dice_game\Dice_game\obj\Debug\net8.0\Dice_game.AssemblyInfo.cs
+C:\Users\Channak kranh\source\repos\Dice_game\Dice_game\obj\Debug\net8.0\Dice_game.csproj.CoreCompileInputs.cache
+C:\Users\Channak kranh\source\repos\Dice_game\Dice_game\obj\Debug\net8.0\Dice_game.dll
+C:\Users\Channak kranh\source\repos\Dice_game\Dice_game\obj\Debug\net8.0\refint\Dice_game.dll
+C:\Users\Channak kranh\source\repos\Dice_game\Dice_game\obj\Debug\net8.0\Dice_game.pdb
+C:\Users\Channak kranh\source\repos\Dice_game\Dice_game\obj\Debug\net8.0\Dice_game.genruntimeconfig.cache
+C:\Users\Channak kranh\source\repos\Dice_game\Dice_game\obj\Debug\net8.0\ref\Dice_game.dll
